@@ -1,3 +1,4 @@
+my website: [thenameisdoc1.github.io](https://thenameisdoc1.github.io)  
 discord: @thenameisdoc1  
 buy me a coffee: [buymeacoffee.com/thenameisdoc1](https://buymeacoffee.com/thenameisdoc1)  
 github: [github.com/thenameisdoc1](https://github.com/thenameisdoc1)  
