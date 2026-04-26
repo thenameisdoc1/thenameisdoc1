@@ -5,6 +5,3 @@ x: [x.com/@thenameisdoc1](https://x.com/@thenameisdoc1)
 youtube: [youtube.com/@thenameisdoc1](https://youtube.com/@thenameisdoc1)  
 reddit: [reddit.com/user/thenameisdoc1](https://www.reddit.com/user/thenameisdoc1/)  
 instagram: [instagram.com/thenameisdoc1](https://instagram.com/thenameisdoc1)  
-
-thenameisdoc1/thenameisdoc1
-thenameisdoc1
